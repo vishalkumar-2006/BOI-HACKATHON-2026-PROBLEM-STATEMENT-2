@@ -1,0 +1,9 @@
+{
+  "mean_ms": 5425.0185049999345,
+  "median_ms": 4746.584309500122,
+  "p95_ms": 7363.523929249776,
+  "min_ms": 4446.592677999888,
+  "max_ms": 7594.380784999885,
+  "target_met": false,
+  "base_url": "https://derived-organ-lewis-electronics.trycloudflare.com"
+}
