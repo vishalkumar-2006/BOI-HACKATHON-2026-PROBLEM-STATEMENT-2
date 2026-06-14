@@ -1,0 +1,12 @@
+{
+  "framework": "Federated Autoencoder + Manual DP-SGD",
+  "architecture": "150\u219264\u219232\u219216\u219232\u219264\u2192150",
+  "noise_multiplier": 0.8,
+  "max_grad_norm": 1.0,
+  "delta": 1e-05,
+  "final_epsilon": 1.19679815697251,
+  "n_rounds": 10,
+  "n_clients": 3,
+  "local_epochs": 3,
+  "guarantee": "(1.20, 1e-05)-differential privacy"
+}
