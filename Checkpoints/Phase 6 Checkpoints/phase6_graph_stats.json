@@ -1,0 +1,1 @@
+{"n_nodes": 9082, "n_edges": 127351, "n_components": 74, "largest_comp": 9004, "n_isolated": 68, "mule_seeds": 65, "sim_threshold": 0.92, "k_neighbors": 20, "decay": 0.5, "max_hops": 2}
